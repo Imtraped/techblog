@@ -7,21 +7,8 @@ body {
     border: 5px dotted;
     box-shadow: 0 0 0 2rem #ff00f4;
     padding: 1rem;
-}
+} /* Use only on home page */
 
 .rant {
     font-size:10px;
-}
-
-.head {
-    background-color: red;
-    border: 5px dotted;
-    box-shadow: 0 0 0 2rem #ff00f4;
-    padding: 1rem;
-}
-
-.par {
-margin: 2rem;
-padding: 1rem;
-background-color: red;
 }
